@@ -12,14 +12,22 @@
 # Funcionalidades
 
 **ISSET**
-$SESSION
-foreach
-session_start()
-array()
-$_GET
-array_push()
-var_dump()
-unset()
+
+**$_SESSION**
+
+**FOREACH**
+
+**SESSION_START()**
+
+**ARRAY**
+
+**$_GET**
+
+**ARRAY_PUSH**
+
+**VAR_DUMP()**
+
+**UNSET()**
 
 # Tecnologias Utilizadas
 No código acima foram usadas as seguintes tecnologias:
