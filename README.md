@@ -12,22 +12,22 @@
 # Funcionalidades
 
 **ISSET**
+Isset é um função que serve para saber se uma variável está definida. Ela basicamente verifica a existência de uma variável, e assim, retorna um valor.
 
 **$_SESSION**
+Armazena as informações da sessão, enquanto **SESSION_START()** permite acessar o conteúdo.
 
 **FOREACH**
-
-**SESSION_START()**
-
-**ARRAY**
+Facilita a iteração de estruturas como o **ARRAY()**, que foi usado para armazenar o conteúdo dentro enquanto o **ARRAY_PUSH()** adiciona elementos ao final do array.
 
 **$_GET**
-
-**ARRAY_PUSH**
+Uma vez que limapmos o conteúdo dentro do input no código, o $_GET  recupera o conteúdo.
 
 **VAR_DUMP()**
+Mostra se o códgio está funcionando ou não, imporimindo na tela uma informaçõ estruturada sobre uma ou mais expressões, incluindo o tipo e o valor.
 
 **UNSET()**
+Apaga uma variável de ambiente.
 
 # Tecnologias Utilizadas
 No código acima foram usadas as seguintes tecnologias:
