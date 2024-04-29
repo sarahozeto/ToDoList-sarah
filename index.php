@@ -62,7 +62,6 @@ if( isset($_GET['clear']) ){
     </div>
     <div class="footer">
         <p>Desenvolvido por @sarahozeto</p>
-        <p>Com o auxílio de Leonardo Sidon</p>
     </div>
 </div>
 </body>

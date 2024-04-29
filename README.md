@@ -11,6 +11,16 @@
 
 # Funcionalidades
 
+**ISSET**
+$SESSION
+foreach
+session_start()
+array()
+$_GET
+array_push()
+var_dump()
+unset()
+
 # Tecnologias Utilizadas
 No código acima foram usadas as seguintes tecnologias:
 * HTML 5 
@@ -25,3 +35,4 @@ No código acima foram usadas as seguintes tecnologias:
 
 # Autores
 Sarah Ozeto Silva
+Com o auxílio de Monolito PHP
